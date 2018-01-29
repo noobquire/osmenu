@@ -6,4 +6,4 @@ My bind menu for Team Fortress 2. Has lots of useful features like sv_cheats 1 c
 3. Edit or create autoexec.cfg. Add the following line to it:
 exec osmenu/core/loadmenu
 4. Go to osmenu/numbinds.cfg and paste there any numpad bindings you have.
-5. In game, open NumDelete to open/close menu and Numpad 0-9 to navigate.
+5. In game, press NumDelete to open/close menu and Numpad 0-9 to navigate.
